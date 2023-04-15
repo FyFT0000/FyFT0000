@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FyFT0000, I'm an Electronic Engineer, with experience in industrial maintenance. Programming language LAD, FBD & IL. With PLC Siemens, Rockwell and SCADA systems.
+- 👋 Hi, I'm an Electronic Engineer, with experience in industrial maintenance. Programming language LAD, FBD & IL. With PLC Siemens, Rockwell and SCADA systems.
 <!---    - 👀 I’m interested in ...  --->
 - 🌱 I’m currently learning Python and Java.
 <!---    - 💞️ I’m looking to collaborate on ...   --->
