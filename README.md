@@ -1,4 +1,4 @@
-- 👋 Hi, I'm an Electronic Engineer, with experience in industrial maintenance. Programming language LAD, FBD & IL. With PLC Siemens, Rockwell and SCADA systems.
+- 👋 Hi, I'm an Electronic Engineer, with experience in industrial maintenance. PLC programming Languages IEC 61131-3: Function Block Diagram (FBD) - Siemens, Ladder Diagram (LD) - Allen-Bradley and SCADA systems.
 <!---    - 👀 I’m interested in ...  --->
 - 🌱 I’m currently learning Python and Java.
 <!---    - 💞️ I’m looking to collaborate on ...   --->
